@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1565881705 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_samsung_hltetmo\nnonce 1565881705-726051809F1EC2F3683852B2D0B5E12BF0A20099\n\n0000000000000000000000000000000000000000 c748764dce2e8a1297e78d828bc1b600a9c254f9 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl1VdWkACgkQ8iL05i7N\nJTFjcgf/f9pdV/QXuHm6bSPzI2LPSYKTyUAxV7+11K92NnFeWABmreT2DzzLaPkd\ng4CGQQmOIHLimjcqoiZRAqzrzZWLBjjvMLBUczHurNCogRcl0twRBuc/10ATjFLf\nkCg6jcqntTfFh1rjod1FaJBpWis1IfrI7SQwEsCMU47SOz2umKXwBgg8D0ryLI6n\nZK1QazrsWsG14Lq69rmDs2bOZd/PUSrOeNyphEp++w+zJfKgnG+csx8Ug68ARADn\ndhGv7q3wi/rN3ETZFp48ZY4HU3jjtW0OZjucGuQXADT5ooNcmgd9QzKqodR5Abgw\njJ+ItDZSUBEtC9MUmbA8GgF0fUgZgg\u003d\u003d\n\u003diJxF\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
